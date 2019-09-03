@@ -16,6 +16,6 @@ Cross Chain Presentation in NEO Community Assembly 2019
    http://localhost/
    ```
 
-2. view the [markdown](https://pandoc.org/MANUAL.html) file directly.
+2. view the [markdown](https://pandoc.org/MANUAL.html) file directly
 
    [slide source](slide.md)
