@@ -4,7 +4,7 @@ Cross Chain Presentation in NEO Community Assembly 2019
 
 # Run
 
-1. launch a server via docker and view the slide over browser
+1. launch a server via [docker](https://www.docker.com/) and view the slide over browser
 
    ```sh
    ./run.sh
