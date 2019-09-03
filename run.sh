@@ -1,0 +1,1 @@
+docker run -p 80:80 $(docker build . | tail -n 1 |cut -d ' ' -f 3)
